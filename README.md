@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 📐 MAT 215: Complex Variables & Laplace Transformations
 
@@ -117,4 +117,3 @@ _Made with ❤️ for BRAC University students_
 **⭐ Star this repo if you find it helpful!**
 
 </div>
-]]>
