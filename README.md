@@ -56,9 +56,13 @@ MAT215-BRACU/
     ├── Formulas/
     │   ├── MID/                        ← Midterm formula sheet
     │   └── FINAL/                      ← Final exam formula sheet
-    └── Reference_Books/
-        ├── Complex Variable (Schaum's Outline).pdf
-        └── Laplace Transforms (Schaum's Outline).pdf
+    ├── Reference_Books/
+    │   ├── Complex Variable (Schaum's Outline).pdf
+    │   └── Laplace Transforms (Schaum's Outline).pdf
+    └── Videos/                         ← Downloadable lecture videos
+        ├── Bangla_Video/               ← Bangla language tutorial video
+        ├── Spring_2025_Online_Classes/ ← Recordings from Spring 2025
+        └── Spring_2026_Online_Classes/ ← Recordings from Spring 2026
 ```
 
 ---
